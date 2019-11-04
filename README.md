@@ -19,3 +19,7 @@ Let's start from the start, click on Xcode app, currently, the latest one availa
 
 Select **single view application** then fill in the App's name, we will creatively name it "Calculatordemo", make sure the language is set to swift and user interface should be **Storyboard**. Don't worry about the other fields.
 Before we change anything, run the app on the simulator by pressing the "play" button on top of xcode window. Let's get started.
+
+As you can see in the first screenshot, we would like to have the app be only on potrait mode and only for iPhone So let's make sure it can't be used in landscape mode and iPad by unchecking this box: 
+
+<img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/4.png">
