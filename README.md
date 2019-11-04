@@ -8,7 +8,7 @@ We are going to create an Application in which we will perform basic some calcul
 
 <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/Calculator.png">
 
-## First steps: Setting up 
+## First step: Setting up 
 Let's start from the start, click on Xcode app, currently, the latest one available on the app score is Xcode 11.1 so make sure that is the one you have. This should show up, click on create a new Xcode project
 
 <p float="center">
@@ -23,3 +23,9 @@ Before we change anything, run the app on the simulator by pressing the "play" b
 As you can see in the first screenshot, we would like to have the app be only on potrait mode and only for iPhone So let's make sure it can't be used in landscape mode and iPad by unchecking this boxes: 
 
 <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/4.png">
+
+## Second step: Creating UI Part
+
+Let’s start with UI design of Calculator. In Calculator UI design basically we will use UIButtons to perform the specific task and UILabel to show the result.
+Just go the Main.Storyboard file and start design your App. There is a view named **View Controller Scene**. This class is main view of the Application that intract with the user. As you see a **+** button on the top, click on that button to add **UIButton** on View Controller. The View is look like as follows:
+
