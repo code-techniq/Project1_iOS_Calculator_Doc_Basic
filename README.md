@@ -38,4 +38,4 @@ After adding the button, We can coustmize that button. Like we can change It's t
 
 <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/7.png">
 
-# Third step: Setup constraint layout
+# Third step: Setup constraint layout(Auto Layout)
