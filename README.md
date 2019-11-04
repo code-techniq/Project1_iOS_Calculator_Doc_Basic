@@ -29,3 +29,7 @@ As you can see in the first screenshot, we would like to have the app be only on
 Let’s start with UI design of Calculator. In Calculator UI design basically we will use UIButtons to perform the specific task and UILabel to show the result.
 Just go the Main.Storyboard file and start design your App. There is a view named **View Controller Scene**. This class is main view of the Application that intract with the user. As you see a **+** button on the top, click on that button to add **UIButton** on View Controller. The View is look like as follows:
 
+<p float="center">
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/5.png" width="45%" height="45%">
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/6.png" width="45%" height="45%">
+</p>
