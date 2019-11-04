@@ -10,3 +10,10 @@ We are going to create an Application in which we will perform basic some calcul
 
 ## First steps: Setting up 
 Let's start from the start, click on Xcode app, currently, the latest one available on the app score is Xcode 11.1 so make sure that is the one you have. This should show up, click on create a new Xcode project
+
+<p float="center">
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/1.png" width="45%" height="45%">
+ <img src="https://github.com/PhaelIshall/iOS-game-Tutorial/blob/master/images/screen3.png" width="45%" height="45%">
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/2.png" width="45%" height="45%">
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/3.png" width="45%" height="45%">
+</p>
