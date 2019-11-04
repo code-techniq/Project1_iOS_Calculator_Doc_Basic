@@ -30,6 +30,6 @@ Let’s start with UI design of Calculator. In Calculator UI design basically we
 Just go the Main.Storyboard file and start design your App. There is a view in Main.Storyboard named **View Controller Scene**. This class is main view of the Application that intract with the user. As you see a **+** button on the top,  click on that button. A small window pop up, in which all the design elements avaialble. Search for the UIButton and drag drop the button on View Controller. The View is look like as follows:
 
 <p float="center">
+  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/6.png" width="50%" height="50%">
  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/5.png" width="50%" height="50%">
- <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/6.png" width="50%" height="50%">
 </p>
