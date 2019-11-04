@@ -33,3 +33,7 @@ Just go the Main.Storyboard file and start design your App. There is a view in M
   <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/6.png" width="50%" height="50%">
  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/5.png" width="50%" height="50%">
 </p>
+
+After adding the button, We can coustmize that button. Like we can change It's text, font, font color etc from Attributes Inspetcor. Add more buttons to **View Controller** and coustmize that according to your Design. and It look like as follows.
+
+
