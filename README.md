@@ -66,8 +66,8 @@ Now connect the UILabel to ViewController.swift. We call it **@IBoutlet**. So ne
 To connect the label to ViewController.swift class, there is a button on the top named **Adjust Editor Opetion**. Click on it and choose 3rd option **Assistant**. ViewController class opens in a new window along with storyboard. Now Right click on Label and drag to ViewController class as shown in image. We named it as **lblResult**. Now you can access the label in ViewController class.
 
 <p float="center">
-  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/11.png" width="50%" height="50%">
- <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/12.png" width="50%" height="50%">
+  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/11.png" width="45%" height="45%">
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/12.png" width="45%" height="45%">
   <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/13.png" width="45%" height="45%">
 </p>
 
