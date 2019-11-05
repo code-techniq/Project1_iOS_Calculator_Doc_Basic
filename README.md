@@ -39,3 +39,7 @@ After adding the button, We can coustmize that button. Like we can change It's t
 <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/7.png">
 
 # Third step: Setup constraint layout(Auto Layout)
+
+Auto Layout is a constraint-based layout system. It allows developers to create an adaptive interface that responds appropriately to changes in screen size and device orientation. Without using Auto Layout, it would be very hard for you to build an app that supports all screen sizes.
+
+Auto Layout is a way that lets developers create user interface by defining relationships between elements. It provides a flexible and powerful system that describes how views and the UI controls relate to each other. By using Auto Layout, you can get an incredible control over layout, with a wide range of customization, and yield the perfect interface.
