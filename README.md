@@ -54,3 +54,9 @@ that's the way to add the constraints. Now think that how can you use autolayout
 
 
 # Fourth step: Coding Part 
+Now It's time write some logic to create the math calculation. It include multiple things like Declaring variables, Create functions, Make buttons clickable etc. So Let's start 
+
+
+There is ViewController.swift class in which we will write all the code. see in attached image.
+
+<img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/7.png">
