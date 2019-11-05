@@ -59,4 +59,4 @@ Now It's time write some logic to create the math calculation. It include multip
 
 There is ViewController.swift class in which we will write all the code. see in attached image.
 
-<img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/7.png">
+<img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/10.png">
