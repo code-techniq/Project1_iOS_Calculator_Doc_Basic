@@ -68,5 +68,6 @@ To connect the label to ViewController.swift class, there is a button on the top
 <p float="center">
   <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/11.png" width="50%" height="50%">
  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/12.png" width="50%" height="50%">
-  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/13.png" width="15%" height="15%">
+  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/13.png" width="45%" height="45%">
 </p>
+
