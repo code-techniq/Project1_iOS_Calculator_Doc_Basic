@@ -50,4 +50,4 @@ There is button **Add new Constraints** at the bottom. Click on that button and 
   <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/8.png" width="70%" height="50%">
  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/9.png" width="70%" height="50%">
 </p>
-that's the way to add the constraints. Now think that how can you use autolayout for whole UI part. Show your creativity 👍
+that's the way to add the constraints. Now think that how can you use autolayout for whole UI part. It's time to Show your creativity 👍
