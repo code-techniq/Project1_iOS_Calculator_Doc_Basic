@@ -47,6 +47,6 @@ Auto Layout is a way that lets developers create user interface by defining rela
 There is button **Add new Constraints** at the bottom. Click on that button and add new constraints. In this tutorial we use four type of constraints on buttons like Left alignment, Right alignment, Bottom alignment and Top alignment. Let's took the example of button **0**. See attached image 
 
 <p float="center">
-  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/6.png" width="50%" height="50%">
- <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/5.png" width="50%" height="50%">
+  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/8.png" width="50%" height="50%">
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/9.png" width="50%" height="50%">
 </p>
