@@ -8,7 +8,7 @@ We are going to create an Application in which we will perform basic some calcul
 
 <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/Calculator.png">
 
-## First step: Setting up 
+# First step: Setting up 
 Let's start from the start, click on Xcode app, currently, the latest one available on the app score is Xcode 11.1 so make sure that is the one you have. This should show up, click on create a new Xcode project
 
 <p float="center">
@@ -51,3 +51,6 @@ There is button **Add new Constraints** at the bottom. Click on that button and 
  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/9.png" width="70%" height="50%">
 </p>
 that's the way to add the constraints. Now think that how can you use autolayout for whole UI part. It's time to Show your creativity 👍
+
+
+# Fourth step: Coding Part 
