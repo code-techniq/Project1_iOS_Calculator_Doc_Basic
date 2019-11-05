@@ -60,3 +60,13 @@ Now It's time write some logic to create the math calculation. It include multip
 There is ViewController.swift class in which we will write all the code. see in attached image.
 
 <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/10.png">
+
+Now connect the UILabel to ViewController.swift. We call it **@IBoutlet**. So next question arise in your mind that **What is IBoutlet?**
+**IBOutlets** are used for referencing something that's on the storyboard. Let's say there's a label on the storyboard that needs to be access in the code, you can control drag it onto the associated viewcontroller class file.
+To connect the label to ViewController.swift class, there is a button on the top named **Adjust Editor Opetion**. Click on it and choose 3rd option **Assistant**. ViewController class opens in a new window along with storyboard. Now Right click on Label and drag to ViewController class as shown in image. We named it as **lblResult**. Now you can access the label in ViewController class.
+
+<p float="center">
+  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/11.png" width="50%" height="50%">
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/12.png" width="50%" height="50%">
+  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/13.png" width="50%" height="50%">
+</p>
