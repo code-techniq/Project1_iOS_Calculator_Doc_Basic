@@ -103,7 +103,7 @@ Now Connect all the numeric buttons with same IBAction. Click on the **Connectio
  
  Now write some logic inside the IBAction to display the clicked numeric button value on the Label and store the value in variable.
 ```
-@IBAction func numbers(_ sender: UIButton) {
+@IBAction func ClickNumbers(_ sender: UIButton) {
         if performingMath == true {
             label.text = String(sender.tag-1)
             numberOnScreen = Double(label.text!)!
