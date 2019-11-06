@@ -85,3 +85,10 @@ Now Declare 4 variables in ViewController Class that helps us to perform the log
     var performingMath = false // bool will use to perform the math operations
     var operation = 0 // Math operation which need to perform on the numbers
 ```
+
+ make an @IBAction to get the click event of the numbers. Now a question arise in your mind that **What is @IBAction ?**
+ @IBAction – a special method triggered by user-interface objects. Interface Builder recognizes them. 
+ To make an IBAction perform the same way that we follow to make the IBOutlet. Connect all the numeric buttons with same IBAction.
+ 
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/15.png">
+ 
