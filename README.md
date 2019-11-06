@@ -104,13 +104,45 @@ Now Connect all the numeric buttons with same IBAction. Click on the **Connectio
  Now write some logic inside the IBAction to display the clicked numeric button value on the Label and store the value in variable.
 ```
 @IBAction func ClickNumbers(_ sender: UIButton) {
-        if performingMath == true {
+        if performingMath == true
+        {
             lblResult.text = String(sender.tag-1)
             numberOnScreen = Double(lblResult.text!)!
             performingMath = false
-        } else {
+        }
+        else
+        {
             lblResult.text = lblResult.text! + String(sender.tag-1)
             numberOnScreen = Double(lblResult.text!)!
         }
     }
-    ```
+  ```
+    
+It's time to perform some math operations. For this create an another action which perform the maths operations logic. Connect
+operations button eg. **+** and **=** with new @IBAction and write logic inside it. We have given a Tag value both the operations button like **+ has tag value 15** and **= has tag value 16**.
+
+```
+@IBAction func ClickOperations(_ sender: UIButton)
+        {
+            if lblResult.text != "" && sender.tag != 16 //Validation {
+                previousNumber = Double(lblResult.text!)! //Store previous number 
+              
+                 if sender.tag == 15 { // Display Plus on Label
+                    lblResult.text = "+"
+                }
+                operation = sender.tag // Store operation tag value
+                performingMath = true
+            }
+            else if sender.tag == 16 {
+               if operation == 15 {  //15 Tag value is for + operation
+                    lblResult.text = String(previousNumber + numberOnScreen) // Addition of numbers
+                }
+            }
+    }
+ ```
+    
+  
+  above code is performing only one operation. Now show your creativity and complete the basic calculator..👍
+  
+  
+  
