@@ -105,12 +105,12 @@ Now Connect all the numeric buttons with same IBAction. Click on the **Connectio
 ```
 @IBAction func ClickNumbers(_ sender: UIButton) {
         if performingMath == true {
-            label.text = String(sender.tag-1)
-            numberOnScreen = Double(label.text!)!
+            lblResult.text = String(sender.tag-1)
+            numberOnScreen = Double(lblResult.text!)!
             performingMath = false
         } else {
-            label.text = label.text! + String(sender.tag-1)
-            numberOnScreen = Double(label.text!)!
+            lblResult.text = lblResult.text! + String(sender.tag-1)
+            numberOnScreen = Double(lblResult.text!)!
         }
     }
     ```
