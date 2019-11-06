@@ -94,9 +94,10 @@ Now Declare 4 variables in ViewController Class that helps us to perform the log
  
 Now Connect all the numeric buttons with same IBAction. Click on the **Connections Inspector** and then drag a line to ViewControllerScene to connect the selected numeric button with **ClickNumbers**.
 
+
 <p float="center">
-  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/11.png" width="70%" height="70%">
- <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/12.png" width="70%" height="70%">
+  <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/16.png" width="70%" height="70%">
+ <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/17.png" width="70%" height="70%">
   
 </p>
  
