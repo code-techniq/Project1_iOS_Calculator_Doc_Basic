@@ -71,7 +71,7 @@ To connect the label to ViewController.swift class, there is a button on the top
   <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/13.png" width="45%" height="45%">
 </p>
 
-We have given a Tag (Unique ID) to every button so that we can  get the specific operation of that clicked button. With Tag we can identify that which button has pressed. Like in given image we have set Tag 1 for button 0, 2 for button 1, 3 for button 2 and so on..
+We have given a Tag (Unique ID) to every button so that we can  get the specific operation of that clicked button. With the use of Tag we can identify that which button has pressed. Like in given image we have set Tag 1 for button 0, 2 for button 1, 3 for button 2 and so on..
 
 <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/14.png">
 
