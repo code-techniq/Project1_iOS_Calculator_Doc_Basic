@@ -75,3 +75,13 @@ We have given a Tag (Unique ID) to every button so that we can  get the specific
 
 <img src="https://github.com/code-techniq/Project1_iOS_Calculator_Doc/blob/master/ScreenShots/14.png">
 
+
+
+Now Declare 4 variables in ViewController Class that helps us to perform the logic.
+
+```
+    var numberOnScreen:Double = 0 // current number display on label
+    var previousNumber:Double = 0 // Store previous number
+    var performingMath = false // bool will use to perform the math operations
+    var operation = 0 // Math operation which need to perform on the numbers
+```
